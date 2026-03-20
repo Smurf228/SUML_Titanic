@@ -71,7 +71,3 @@ The app asks for the following passenger attributes (in the same order used by t
 - `model.sv` must be present in the project root next to `zad4.py`.
 - The UI text in the app is currently in Polish.
 - The code contains a small compatibility workaround for loading pickled models across OS path implementations.
-
-## License
-
-No license file is included in this repository. If you plan to reuse this code, consider adding a license.
